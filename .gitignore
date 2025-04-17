@@ -136,6 +136,7 @@ ENV/
 env.bak/
 venv.bak/
 sklearn-env/
+ia-env/
 
 # Spyder project settings
 .spyderproject
